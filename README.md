@@ -14,7 +14,7 @@ cd wurf-OS/
 
 step 3
 
-pip install -r requirements.txt
+python3 pip install -r requirements.txt
 
 step 4
 
