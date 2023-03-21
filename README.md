@@ -6,15 +6,15 @@ v1.0
 
 step 1 
 
-git clone https://github.com/worldwidewurf/wurf-OS.git
+```git clone https://github.com/worldwidewurf/wurf-OS.git```
 
 step 2
 
-cd wurf-OS/
+```cd wurf-OS/```
 
 step 3
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 step 4
@@ -28,6 +28,6 @@ Go to https://myaccount.google.com/u/4/apppasswords generate a password and copy
 Paste the code in line 413
 
 
-python3 wurf_OS.py
+```python3 wurf_OS.py```
 
 thanks to @cyber-coding on youtube for base foundation of this project
