@@ -152,7 +152,8 @@ def select_options():
             except:
                 continue
         if user_selection == 1:
-            start_browser()
+            print("""
+                                        discontinued""")
 
         elif user_selection == 2:
             start_vscode()
